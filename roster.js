@@ -21,7 +21,7 @@ const wrestlers = [
 { name: "Chris Fakude", image: "CHRIS FAKUDE.png", finisher: "Shadow Strike", role: "MMA" },
 { name: "Chris Hero", image: "CHRIS HERO.png", finisher: "Rolling Elboe", role: "Hard Hitting Striker" },
 { name: "Craig Crofield", image: "CRAIG CROFIELD.png", finisher: "Hammer Fist", role: " Master of Fists" },
-{ name: "Toofan", image: "DA BABY.png", finisher: "...", role: " ded" },
+{ name: "Toofan", image: "DA BABY.png", finisher: "SOS", role: "Powerhouse" },
 { name: "Damn Armstrong", image: "DAMN ARMSTRONG.png", finisher: "Death Drop", role: "ded" },
 { name: "Dangar", image: "DANGAR.png", finisher: "Drift Away", role: "Technical Powerhouse " },
 { name: "Dantes Bauer", image: "DANTES BAUER.png", finisher: "Iron Fist", role: " Martial Artist " },
