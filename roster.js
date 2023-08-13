@@ -42,7 +42,7 @@ const wrestlers = [
 { name: "Hacker Callahan", image: "HACKER CALLAHAN.png", finisher: "Super Brogue", role: "Brawler" },
 { name: "Hum", image: "HUM.png", finisher: "Low Blow", role: "Drunk Artist" },
 { name: "Jaden Storm", image: "JADEN STORM.png", finisher: "Death Valley Driver", role: "Street Fighter" },
-{ name: "Johnny Black", image: "JOHNNY BLACK.png", finisher: "Self Promotion Strategies", role: "Half ded" },
+{ name: "Johnny Black", image: "JOHNNY BLACK.png", finisher: "Cutter", role: "Martial Artist" },
 { name: "Johnny Drago", image: "JOHNNY DRACO.png", finisher: "Dragon Slash", role: "Technician" },
 { name: "Johnny Silver", image: "JOHNNY SILVER.png", finisher: "Burning Back Elbow", role: "Kempo" },
 { name: "Julia Jothovic", image: "JULIA JOTOVIC.png", finisher: "Spartan Kick", role: "Kempo" },
